@@ -25,3 +25,6 @@ Anomaly Detection: Recognized abnormal pollution events and highlighted hotspot 
 Data Visualization: Presented findings through comprehensive charts and maps for clear interpretation.
 
 Exploratory Data Analysis (EDA): Explored factors affecting air quality changes and validated meaningful hypotheses.
+
+	Team members
+ HU Shuaijun, Cai Peida, Song Zhihao, Yu Rui
